@@ -1,0 +1,17 @@
+[package]
+name = "rust_oop"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "decorator_static_impl"
+path = "src/decorator_static_impl.rs"
+
+[[bin]]
+name = "decorator_dyn_impl"
+path = "src/decorator_dyn_impl.rs"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
