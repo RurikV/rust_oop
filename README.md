@@ -29,13 +29,6 @@ The dynamic version (`decorator_dyn_impl.rs`) allows for decorators to be applie
 - Runtime flexibility
 - Ability to modify decoration chain during execution
 
-## Getting Started
-
-To run the examples provided within each file:
-
-```bash
-cargo run --bin decorator_static_impl
-cargo run --bin decorator_dyn_impl
 
 # Visitor Pattern in Rust
 
