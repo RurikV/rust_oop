@@ -11,6 +11,14 @@ path = "src/decorator_static_impl.rs"
 name = "decorator_dyn_impl"
 path = "src/decorator_dyn_impl.rs"
 
+[[bin]]
+name = "visitor_static_impl"
+path = "src/visitor_static_impl.rs"
+
+[[bin]]
+name = "visitor_dyn_impl"
+path = "src/visitor_dyn_impl.rs"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
